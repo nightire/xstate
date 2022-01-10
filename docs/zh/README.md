@@ -33,7 +33,7 @@
 
 ## 模板
 
-在 CodeSandbox 上复刻这些模板来开始：
+开始在 CodeSandbox 上使用这些模板：
 
 - [XState 模板](https://codesandbox.io/s/xstate-example-template-m4ckv) - 没有框架
 - [XState + TypeScript 模板](https://codesandbox.io/s/xstate-typescript-template-s9kz8) - 没有框架
